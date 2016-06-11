@@ -1,4 +1,4 @@
 # Remove this joke entry when a real entry is made
-- name: ¯\_(ツ)_/¯
-  category: what
-  url: /
+- name:                           # title text
+  description:                    # text displayed underneath the title
+  url: /                          # / is root

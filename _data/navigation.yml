@@ -4,9 +4,6 @@
 - title: about
   url: /me
 
-- title: rss
-  url: /feed.xml
-
 - title: github
   url: https://github.com/menacingmecha
 
@@ -18,3 +15,6 @@
 
 - title: yt
   url: https://www.youtube.com/channel/UCfBdJP-T7eamU0piV29C4Ww
+
+- title: last.fm
+  url: http://www.last.fm/user/MenacingMecha

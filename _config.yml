@@ -2,7 +2,7 @@
 name: MenacingMecha
 description: Game Dev Student
 google_verification: null
-
+url: /
 
 # File management
 include: [".htaccess"]
